@@ -45,7 +45,7 @@
         "repository": {
           "url": "https://github.com/brave/brave-core.git"
         },
-        "branch": "media-split"
+        "branch": "media-split-twitch-ac-url-fix"
       }
     },
     "widevine": {
